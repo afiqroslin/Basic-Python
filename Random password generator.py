@@ -1,3 +1,5 @@
+
+
 import random
 
 lower = "qwertyuiopasdfghjklzxcvbnm"
@@ -14,3 +16,8 @@ number = "".join(random.sample(numbers + symbols, 5))
 
 all = alphabet + number
 print(all)
+
+
+
+
+

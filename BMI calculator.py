@@ -1,3 +1,5 @@
+
+
 print("Weight in KG: ")
 weight = float(input())
 print("Height in CM:")
@@ -15,3 +17,10 @@ elif bmi>=25 and bmi<30:
     print("Overweight")
 else:
     print("Obesity")
+    
+    
+    
+    
+    
+    
+    

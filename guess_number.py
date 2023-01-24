@@ -4,7 +4,6 @@ number = random.randint(0, 10)  # Generate random number in range of 0 to 10
 
 while True:
     print("Guess a number: ")
-    print(number)
 
     for counter in range(3):
         answer = int(input())
@@ -19,6 +18,6 @@ while True:
             break
 
         if answer == number:
-            print("You are right")
+            print("You are right!")
             break
     break
